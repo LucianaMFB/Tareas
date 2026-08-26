@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tarea01/tarea01.vcxproj" Id="d05b55f0-972b-43d3-ae84-bc9a8317824a" />
+</Solution>
